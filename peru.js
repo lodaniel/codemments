@@ -1,4 +1,7 @@
 /*
+Titulo: Um charuto
+Autor: Prof. Luciano Daniel
+
 Todo mundo fala que o peru morre de véspera
 A véspera do Natal é dia 24
 Ninguém morre na véspera, ele morre no dia
